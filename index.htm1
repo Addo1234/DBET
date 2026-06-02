@@ -35,3 +35,91 @@ cursor:pointer;
 
 </body>
 </html>
+<!DOCTYPE html>
+<html>
+<head>
+<title>DBET Football Predictions</title>
+<style>
+body{
+    margin:0;
+    font-family:Arial,sans-serif;
+    background:#111;
+    color:white;
+}
+header{
+    background:#0f8f3d;
+    padding:20px;
+    text-align:center;
+}
+h1{
+    margin:0;
+}
+.container{
+    padding:20px;
+}
+.card{
+    background:#222;
+    margin-bottom:15px;
+    padding:15px;
+    border-radius:10px;
+}
+.match{
+    font-size:20px;
+    font-weight:bold;
+}
+.prediction{
+    color:#00ff88;
+    margin-top:10px;
+}
+.btn{
+    display:inline-block;
+    background:#0f8f3d;
+    color:white;
+    padding:10px 20px;
+    border-radius:5px;
+    text-decoration:none;
+    margin-top:10px;
+}
+footer{
+    text-align:center;
+    padding:20px;
+    background:#000;
+}
+</style>
+</head>
+<body>
+
+<header>
+<h1>DBET</h1>
+<p>Football Predictions Website</p>
+</header>
+
+<div class="container">
+
+<h2>Today's Predictions</h2>
+
+<div class="card">
+<div class="match">Arsenal vs Chelsea</div>
+<div class="prediction">Prediction: Arsenal Win</div>
+</div>
+
+<div class="card">
+<div class="match">Barcelona vs Sevilla</div>
+<div class="prediction">Prediction: Over 2.5 Goals</div>
+</div>
+
+<div class="card">
+<div class="match">Bayern Munich vs Dortmund</div>
+<div class="prediction">Prediction: Both Teams To Score</div>
+</div>
+
+<a class="btn" href="#">Join Telegram</a>
+
+</div>
+
+<footer>
+© 2026 DBET Football Predictions
+</footer>
+
+</body>
+</html>
