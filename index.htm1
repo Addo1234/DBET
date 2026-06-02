@@ -1,43 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>DBET</title>
-<style>
-body{
-background:#111;
-color:white;
-font-family:Arial;
-text-align:center;
-padding:50px;
-}
-h1{
-color:gold;
-}
-button{
-background:gold;
-border:none;
-padding:15px 30px;
-font-size:18px;
-border-radius:10px;
-cursor:pointer;
-}
-</style>
-</head>
-<body>
-
-<h1>DBET</h1>
-
-<h2>Football Predictions</h2>
-
-<p>Welcome to DBET.</p>
-
-<button>Today's Predictions</button>
-
-</body>
-</html>
-<!DOCTYPE html>
-<html>
-<head>
 <title>DBET Football Predictions</title>
 <style>
 body{
